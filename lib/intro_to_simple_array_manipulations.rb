@@ -19,7 +19,7 @@ end
 
 
 def pop_with_args
-  array.pop(2)
+  array.pop(-1)
   
 end
 
