@@ -13,7 +13,7 @@ end
 
 def using_pop 
   
-    array.pop(string)
+    array.pop()
   
 end
 
